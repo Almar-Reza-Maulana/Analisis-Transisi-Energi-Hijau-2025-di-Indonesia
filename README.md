@@ -9,7 +9,7 @@ Repositori ini berisi analisis data mengenai progres, potensi, dan tantangan tra
 
 ---
 
-♻️ Apa itu Transisi Energi Hijau?\
+## ♻️ Apa itu Transisi Energi Hijau?
 Transisi energi hijau artinya mengganti aset dan praktik energi berbasis fosil (batubara, minyak, gas) dengan Energi Baru Terbarukan (EBT) — seperti tenaga surya, angin, panas bumi, dan biomassa. Di 2025, ini bukan lagi mimpi: pemerintah menargetkan porsi EBT minimal 17–23 % dari total bauran energi nasional.
 
 Indonesia berada di persimpangan jalan. Di satu sisi, ada sebuah janji ambisius: target 23% energi terbarukan pada tahun 2025 sebagai komitmen kita untuk planet yang lebih lestari. Di sisi lain, ada realita pahit: data Kementerian ESDM menunjukkan kita baru merangkak di angka 13,1% pada akhir 2023. Waktu semakin menipis, dan kesenjangan ini adalah alarm yang berbunyi nyaring.
